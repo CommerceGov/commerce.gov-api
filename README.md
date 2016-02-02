@@ -1,7 +1,7 @@
 ## Content API for Commerce.gov
-Content on Commerce.gov is exposed in a REST API available at https://api.commece.gov/api/blog. Full documentation is located and maintained at https://www.commerce.gov/page/api-documentation-commercegov
+Content on Commerce.gov is exposed in two REST APIs available at https://api.commece.gov/api/blogs and https://api.commece.gov/api/news. Full documentation is located and maintained at https://www.commerce.gov/page/api-documentation-commercegov
 
-As of 9/29/2015 only Blog content is exposed in the API, but we plan to add other content types such as News and media as separate API resources.
+As of 12/05/2015 Blog and News content is exposed in the API. We plan to add other content types as separate API resources.
 
 ## Periodic updates
 

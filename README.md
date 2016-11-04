@@ -1,5 +1,5 @@
 ## Content API for Commerce.gov
-Content on Commerce.gov is exposed in three REST APIs available at https://api.commerce.gov/api/blogs, https://api.commerce.gov/api/news and https://api.commerce.gov/api/image. Full documentation is located and maintained at https://www.commerce.gov/page/api-documentation-commercegov
+Content on Commerce.gov is exposed in three REST APIs available at [https://api.commerce.gov/api/blogs](https://api.commerce.gov/api/blogs?api_key=DEMO_KEY), [https://api.commerce.gov/api/news](https://api.commerce.gov/api/news?api_key=DEMO_KEY) and [https://api.commerce.gov/api/image](https://api.commerce.gov/api/image?api_key=DEMO_KEY). Full documentation is located and maintained at https://www.commerce.gov/page/api-documentation-commercegov
 
 As of 12/05/2015 Blog and News content is exposed in the API. We plan to add other content types as separate API resources.
 As of 9/23/2016 Images are exposed in the API.

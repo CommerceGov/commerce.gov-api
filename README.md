@@ -4,7 +4,7 @@ Content on Commerce.gov is exposed in three REST APIs available at
 * [https://api.commerce.gov/api/news](https://api.commerce.gov/api/news?api_key=DEMO_KEY), and 
 * [https://api.commerce.gov/api/image](https://api.commerce.gov/api/image?api_key=DEMO_KEY). 
 
-Full documentation is located and maintained at https://www.commerce.gov/page/api-documentation-commercegov
+Full documentation is located and maintained at https://www.commerce.gov/data-and-reports/developer-resources/commercegov-api
 
 ## Changelog:
 * 11/9/2018 - News v2.0, Blogs v2.0, Image v2.0: Complete rewrite of the API to reflect the redesign of the Commerce.gov D8 website. API endpoints - news, blogs and image and their response fields preserved for backward compatibility. Advanced features such as returning specific fields, returning specific content, applying a query filter, applying a query sort, API versioning, and change request formatter are not available for this version. Fields with null values are returned as string with null value. Example "null".

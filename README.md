@@ -7,6 +7,7 @@ Content on Commerce.gov is exposed in three REST APIs available at
 Full documentation is located and maintained at https://www.commerce.gov/data-and-reports/developer-resources/commercegov-api
 
 ## Changelog:
+* 10/4/2019 - News v2.1, Blogs v2.1, Image v2.1: Reworked each API as an update was required to the underlying JSON API module from version 1 to verison 2. Several fields were updated to follow JSON best practices, such as changing the string "null" to null. Full details can be found here.
 * 11/9/2018 - News v2.0, Blogs v2.0, Image v2.0: Complete rewrite of the API to reflect the redesign of the Commerce.gov D8 website. API endpoints - news, blogs and image and their response fields preserved for backward compatibility. Advanced features such as returning specific fields, returning specific content, applying a query filter, applying a query sort, API versioning, and change request formatter are not available for this version. Fields with null values are returned as string with null value. Example "null".
 * 9/23/2016 - Image v1.0: Initial release of API resource endpoint for Images/Photos. Added image specific fields to field reference and updated resource column.
 * 12/5/2015 - News v1.0: Initial release of API resource endpoint for Newsroom content. Added newsroom specific fields to field reference and new column to show which fields are available for which content types.
